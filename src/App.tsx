@@ -8,7 +8,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <Button>Shad Cn button</Button>
+    <Button className=''>Shad Cn button</Button>
   )
 }
 
